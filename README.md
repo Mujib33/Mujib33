@@ -63,8 +63,8 @@ Multi-city home appliance service platform built using PHP & MySQL.
 ## 📫 Connect With Me
 
 - 🌐 Website: https://doorastack.com  
-- 💼 LinkedIn: (https://www.linkedin.com/in/mujib-sheikh-a9a97a60/)  
-- 🐦 X (Twitter): (https://x.com/mujibrsheikh)  
+- 💼 LinkedIn: https://www.linkedin.com/in/mujib-sheikh-a9a97a60/
+- 🐦 X (Twitter): https://x.com/mujibrsheikh  
 
 ---
 
